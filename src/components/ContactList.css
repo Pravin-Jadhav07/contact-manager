@@ -1,0 +1,9 @@
+.cList{
+    padding: 5px 40px;
+    height: 40vh;
+}
+.allContacts{
+    margin-top: 10px;
+    height: 250px;
+    overflow: auto;
+}
